@@ -507,8 +507,7 @@ def pilih_super():
 				                                                                                                   cek = open("out/super_cp.txt", "a")
 				                                                                                                   cek.write("ID:" +user+ " Pw:" +pass9+"\n")
 				                                                                                                   cek.close()
-				                                                                                                   cekpoint.append(user+pass9)		
-											RESPECT TUMISO RSA✔                                       
+				                                                                                                   cekpoint.                                       
 																	
 															
 		except:
